@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,QACE,qBACA,UAAW","file":"static/css/main.609dab4b.css","sourcesContent":["ul li a{\n  text-decoration: none;\n  color:#000;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/app.css"],"sourceRoot":""}
